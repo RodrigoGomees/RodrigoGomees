@@ -1,4 +1,4 @@
-🙋🏻‍♂️ Olá, meu nome é Rodrigo Gomes! Sou Desenvolvedor de Front-End em constante aprendizado.
+🙋🏻‍♂️ Olá, Mundo! Eu me chamo Rodrigo Gomes, sou Desenvolvedor Front-End apaixonado pelo mundo da programação e TI.
 
 👨🏻‍💻 Minhas Habilidades: HTML, CSS, JavaScript. 
 ##
